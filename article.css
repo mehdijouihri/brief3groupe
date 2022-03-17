@@ -1,0 +1,146 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+h1{
+    font-family: 'Abril Fatface', cursive;
+    color: red;
+}
+
+h2, h3
+{
+    color: blue;
+}
+
+main{
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+    flex-direction: column;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100px;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover
+{
+    color:blue;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    
+}
+
+li{
+    list-style-type: none;
+    padding: 30px;
+}
+
+.logo
+{
+    width: 150px;
+    height: 150px;
+}
+
+.illustration
+{
+    margin-top: 50px;
+}
+
+footer
+{
+    display: flex;
+}
+
+.bas
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.logo2
+{
+    width: 350px;
+    height: 350px;
+    padding-left: 150px;
+}
+
+.boutonlien1
+{
+    margin: 15px;
+    font-family: 'Montserrat';
+    font-size: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: #1da1f3;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+
+}
+.im1
+{
+
+    width: 25px;
+    height: 25px;
+    padding-right: 10px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+ .boutonlien li a 
+ {
+     display: flex;
+     align-items: center;
+ }
+ .boutonlien1
+ {
+     margin: 15px;
+     font-family: 'Montserrat';
+     font-size: 10px;
+     text-decoration: none;
+     color: white;
+     background-color: #50abf1;
+     width: 140px;
+     height: 40px;
+     text-align: center;
+  
+ }
+
+ .boutonlien2
+{
+    margin: 15px;
+    font-family: 'Montserrat';
+    font-size: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: #0077b5;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+ 
+}
+.boutonlien3
+{
+    margin: 15px;
+    font-family: 'Montserrat';
+    font-size: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+}
+

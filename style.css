@@ -24,9 +24,20 @@ li{
     padding: 30px;
 }
 
+a{
+    text-decoration: none;
+}
+
+a:hover
+{
+    color:blue;
+}
+
 .logo
 {
     width: 150px;
     height: 150px;
 }
+
+
 
