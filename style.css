@@ -1,0 +1,32 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-family: 'Abril Fatface', cursive;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100px;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+}
+
+li{
+    list-style-type: none;
+    padding: 30px;
+}
+
+.logo
+{
+    width: 150px;
+    height: 150px;
+}
+
