@@ -67,7 +67,7 @@ a{
     font-size: 10px;
     text-decoration: none;
     color: white;
-    background-color: #1da1f3;
+    background-color: #50abf1;
     width: 140px;
     height: 40px;
     text-align: center;
@@ -87,20 +87,7 @@ a{
      display: flex;
      align-items: center;
  }
- .boutonlien1
- {
-     margin: 15px;
-     font-family: 'Montserrat';
-     font-size: 10px;
-     text-decoration: none;
-     color: white;
-     background-color: #50abf1;
-     width: 140px;
-     height: 40px;
-     text-align: center;
-  
- }
-
+ 
  .boutonlien2
 {
     margin: 15px;
