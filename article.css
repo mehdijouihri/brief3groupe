@@ -13,6 +13,11 @@ h2, h3
     color: blue;
 }
 
+.illustration
+{
+    width: 1200px;
+}
+
 main{
     display: flex;
     max-width: 1200px;
@@ -36,13 +41,6 @@ li{
     padding: 30px;
 }
 
-.logo
-{
-    width: 150px;
-    height: 150px;
-    vertical-align: bottom;
-}
-
 .illustration
 {
     margin-top: 50px;
@@ -61,24 +59,12 @@ footer
 
 .logo2
 {
-    width: 350px;
-    height: 350px;
-    padding-left: 150px;
+    width: 450px;
+    height: 450px;
+    padding-left: 40px;
+    align-items: flex-end;
 }
 
-.boutonlien1
-{
-    margin: 15px;
-    font-family: 'Montserrat';
-    font-size: 10px;
-    text-decoration: none;
-    color: white;
-    background-color: #1da1f3;
-    width: 140px;
-    height: 40px;
-    text-align: center;
-
-}
 .im1
 {
 
@@ -92,7 +78,10 @@ footer
  {
      display: flex;
      align-items: center;
+     margin: auto;
  }
+
+
  .boutonlien1
  {
      margin: 15px;

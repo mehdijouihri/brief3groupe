@@ -11,14 +11,12 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 100px;
     max-width: 1200px;
     margin: auto;
 }
 
 ul{
     display: flex;
-    align-items: center;
 }
 
 li{
@@ -43,7 +41,6 @@ a{
 .logo
 {
     width: 150px;
-    height: 150px;
 }
 
 
