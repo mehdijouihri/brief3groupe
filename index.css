@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  max-width: 1200px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 50px auto;
+}
+img {
+  width: 500px;
+  height: fit-content;
+  text-align: center;
+}
+.article {
+  width: 500px;
+  height: 650px;
+}
+a{
+    color: darkred;
+    font-size: 12px;
+}
+.article1{
+  
+}
