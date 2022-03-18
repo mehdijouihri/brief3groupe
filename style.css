@@ -48,12 +48,15 @@ a{
 .social
 {
     display: flex;
+
 }
 
 .bas
 {
     display: flex;
     flex-direction: column;
+    max-width:1200px;
+    
 }
 
 .logo2
