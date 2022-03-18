@@ -7,6 +7,14 @@ h1{
     font-family: 'Abril Fatface', cursive;
 }
 
+h1, h2{
+    color: red;
+}
+
+.sous_titre{
+    color: black;
+}
+
 nav{
     display: flex;
     align-items: center;
