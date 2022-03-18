@@ -1,3 +1,9 @@
+.sous_titre
+{
+  margin:0;
+  margin-top: -20px;
+}
+
 .container {
   display: flex;
   max-width: 1200px;
