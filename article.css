@@ -7,6 +7,11 @@ h2, h3
     color: blue;
 }
 
+.illustration
+{
+    width: 1200px;
+}
+
 main{
     display: flex;
     max-width: 1200px;
