@@ -12,7 +12,7 @@ h1 {
 
 article {
     margin:auto;        
-    max-width: 1200px;
+    max-width: 1050px;
     display:flex;
     flex-direction: row;   
     margin-bottom:20px; 

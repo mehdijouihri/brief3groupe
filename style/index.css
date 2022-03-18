@@ -6,7 +6,7 @@
 
 .container {
   display: flex;
-  max-width: 1200px;
+  max-width: 1050px;
   justify-content: space-between;  
   flex-wrap: wrap;
   margin: 50px auto;
@@ -26,4 +26,9 @@ img {
 .article a{
     color: darkred;
     font-size: 12px;
+    font-weight: bold;
+}
+
+span {
+  text-decoration:underline;
 }

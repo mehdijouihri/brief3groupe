@@ -19,7 +19,7 @@ main p
 
 main{
     display: flex;
-    max-width: 1200px;
+    max-width: 1050px;
     margin: auto;
     flex-direction: column;
 }
@@ -39,4 +39,5 @@ a:hover
 .illustration
 {
     margin-top: 50px;
+    width:1050px;
 }

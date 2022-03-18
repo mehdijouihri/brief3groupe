@@ -1,16 +1,6 @@
-body{
-    font-family: 'Montserrat', sans-serif;
-    
-}
-
-h1{
-    font-family: 'Abril Fatface', cursive;
-    color: red;
-}
-
 main{
     display: flex;
-    max-width: 1200px;
+    max-width: 1050px;
     margin: auto;
     flex-direction: column;
     
@@ -20,26 +10,29 @@ form{
     display: flex;
     flex-direction: column;
     width: 600px;
-    padding-left: 300px;
+    margin: auto;
+}
+
+input[type="text"] {
+    border-radius:10px;
+    border:1px solid black;
+    padding: 5px;
 }
 
 textarea{
     height: 200px;
+    border-radius:10px;
 }
 
 .envoyer
 {
-    width: 100px;   
-    margin-left: 235px;
-    margin-top: 10px;
     font-family: 'Montserrat';
-    font-size: 10px;
-    text-decoration: none;
     color: white;
     background-color: #1da1f3;
     width: 140px;
     height: 40px;
     border: none;
+    margin: 10px auto 0 auto;
 }
 
 .envoyer:hover
