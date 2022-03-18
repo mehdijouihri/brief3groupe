@@ -7,12 +7,21 @@ h1{
     font-family: 'Abril Fatface', cursive;
 }
 
+h1, h2{
+    color: red;
+}
+
+.sous_titre{
+    color: black;
+}
+
 nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
     max-width: 1200px;
     margin: auto;
+    margin-bottom: 180px;
 }
 
 ul{
@@ -44,13 +53,22 @@ a{
 }
 .social
 {
+  
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    max-width: 1200px;
+    margin: auto;
+    margin-bottom: 200px;
 }
 
 .bas
 {
     display: flex;
     flex-direction: column;
+    max-width:1200px;
+
 }
 
 .logo2
