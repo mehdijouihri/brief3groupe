@@ -10,8 +10,10 @@ h1{
 nav{
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     height: 100px;
+    max-width: 1200px;
+    margin: auto;
 }
 
 ul{
@@ -28,7 +30,12 @@ a{
     text-decoration: none;
 }
 
-a:hover
+.lien_nav:visited
+{
+    color: grey;
+}
+
+.lien_nav:hover
 {
     color:blue;
 }

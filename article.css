@@ -20,18 +20,6 @@ main{
     flex-direction: column;
 }
 
-nav{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    height: 100px;
-    
-}
-
-a{
-    text-decoration: none;
-}
-
 a:hover
 {
     color:blue;
@@ -52,6 +40,7 @@ li{
 {
     width: 150px;
     height: 150px;
+    vertical-align: bottom;
 }
 
 .illustration
