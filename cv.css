@@ -1,0 +1,29 @@
+
+.ids {
+
+    display:flex;   
+    flex-wrap: wrap;
+    flex-direction: column;     
+}
+
+h1 {
+    margin:auto;  
+}
+
+article {
+    margin:auto;        
+    max-width: 1200px;
+    display:flex;
+    flex-direction: row;   
+    margin-bottom:20px; 
+}
+
+.resume {
+    display:flex;  
+    flex-direction: column;
+}
+
+.photo-profil {
+    width:200px;
+    border-radius:50%;
+}
