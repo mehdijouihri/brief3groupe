@@ -1,43 +1,37 @@
-h1{
+h1 {
     color: red;
 }
 
-h2, h3
-{
+h2, h3 {
     color: blue;
 }
 
-main p
-{
+main p {
     text-align: justify;
 }
 
-.illustration
-{
+.illustration {
     width: 1200px;
 }
 
-main{
+main {
     display: flex;
     max-width: 1050px;
     margin: auto;
     flex-direction: column;
 }
 
-a:hover
-{
-    color:blue;
+a:hover {
+    color: blue;
 }
 
-.logo
-{
+.logo {
     width: 150px;
     height: 150px;
     vertical-align: bottom;
 }
 
-.illustration
-{
+.illustration {
     margin-top: 50px;
-    width:1050px;
+    width: 1050px;
 }

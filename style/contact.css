@@ -1,12 +1,12 @@
-main{
+main {
     display: flex;
     max-width: 1050px;
     margin: auto;
     flex-direction: column;
-    
+
 }
 
-form{
+form {
     display: flex;
     flex-direction: column;
     width: 600px;
@@ -14,18 +14,17 @@ form{
 }
 
 input[type="text"] {
-    border-radius:10px;
-    border:1px solid black;
+    border-radius: 10px;
+    border: 1px solid black;
     padding: 5px;
 }
 
-textarea{
+textarea {
     height: 200px;
-    border-radius:10px;
+    border-radius: 10px;
 }
 
-.envoyer
-{
+.envoyer {
     font-family: 'Montserrat';
     color: white;
     background-color: #1da1f3;
@@ -35,11 +34,10 @@ textarea{
     margin: 10px auto 0 auto;
 }
 
-.envoyer:hover
-{
-    color:blue;
+.envoyer:hover {
+    color: blue;
 }
 
-label{
+label {
     margin-top: 10px;
 }
