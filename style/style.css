@@ -34,6 +34,7 @@ li {
 
 a {
     text-decoration: none;
+    color: grey;
 }
 
 .lien_nav:visited {
